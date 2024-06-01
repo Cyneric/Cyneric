@@ -85,7 +85,7 @@
 
 <br />
 
-### ... and a lots more ...
+### ... and lots more ...
 
 <br />
 <br />
