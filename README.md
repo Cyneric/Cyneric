@@ -6,6 +6,10 @@
 ### 👨‍💻 I’m a Full Stack Developer from Germany
 
 <br />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Cyneric&theme=tokyonight)](https://git.io/streak-stats)
+
+<br />
 <br />
 <br />
 <br />
@@ -93,10 +97,6 @@
 ### 📈 My Coding Stats
 
 <br />
-
-### GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Cyneric&theme=tokyonight)](https://git.io/streak-stats)
 
 ### Contributions
 
