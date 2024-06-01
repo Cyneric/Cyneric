@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6391dd&height=120&section=header"/>
 <div align="center">
 
-## Hi there 👋 i'm Christian Blank
+## Hi there 👋 I'm Christian Blank
 
 ### 👨‍💻 I’m a Full Stack Developer from Germany
 
