@@ -5,10 +5,6 @@
 
 ### 👨‍💻 I’m a Full Stack Developer from Germany
 
-<img width="800" src="https://wakatime.com/share/@Cyneric/b266be5d-c909-4707-85c2-5cfadb948b73.svg"></img>
-
-[![wakatime](https://wakatime.com/badge/user/bf963cb4-936f-46bd-a4f0-0f4abcfe3798.svg)](https://wakatime.com/@bf963cb4-936f-46bd-a4f0-0f4abcfe3798)
-
 <br />
 <br />
 <br />
