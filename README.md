@@ -102,7 +102,7 @@
 
 [![Cynerics's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyneric&theme=tokyo-night)](https://github.com/Cyneric/)
 
-### Tracked time per language since 28-05-2024
+### Tracked time per language since 28-04-2024
 
 <img width="800" src="https://wakatime.com/share/@Cyneric/337f3740-e0a9-404f-961b-5931d94d1417.svg"></img>
 
