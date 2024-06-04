@@ -4,7 +4,7 @@
 ## Hi there 👋 I'm Christian Blank
 
 ### 👨‍💻 I’m a Full Stack Developer from Germany.
-I'm currently working in the field of Biotechnology: Laboratory Analytical Instruments at [BRUKER corporation](https://www.bruker.com/en.html).
+I'm currently working in the field of Biotechnology: Laboratory Analytical Instruments at [Bruker Corporation](https://www.bruker.com/en.html).
 
 <br />
 
