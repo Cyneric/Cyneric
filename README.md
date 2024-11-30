@@ -110,6 +110,3 @@ I'm currently working in the field of Biotechnology: Laboratory Analytical Instr
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyneric&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cyneric&theme=tokyonight&show_icons=true) -->
 </div>
-
-
-
