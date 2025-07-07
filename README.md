@@ -105,7 +105,7 @@ I'm currently working in the field of Biotechnology: Laboratory Analytical Instr
 
 ### Tracked time per language since 28-04-2024
 
-<img width="800" src="https://wakatime.com/share/@Cyneric/337f3740-e0a9-404f-961b-5931d94d1417.svg"></img>
+<img width="800" src="[https://wakatime.com/share/@Cyneric/337f3740-e0a9-404f-961b-5931d94d1417.svg](https://wakatime.com/share/@Cyneric/9c29ab1c-f1f8-407b-b360-b21f4b5a465a.svg)"></img>
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyneric&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cyneric&theme=tokyonight&show_icons=true) -->
