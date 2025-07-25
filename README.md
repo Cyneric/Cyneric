@@ -103,6 +103,7 @@ I'm currently working in the field of Biotechnology: Laboratory Analytical Instr
 
 [![Cynerics's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyneric&theme=tokyo-night)](https://github.com/Cyneric/)
 
+
 ### Tracked time per language since 28-04-2024
 
 <img width="800" src="https://wakatime.com/share/@Cyneric/38f1fe20-e9be-455d-b92e-754fffc03817.svg"></img>
