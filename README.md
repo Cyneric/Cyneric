@@ -95,7 +95,7 @@ I'm currently working in the field of Biotechnology: Laboratory Analytical Instr
 
 #
 
-### 📈 My Coding Stats
+### My Coding Stats
 
 <br />
 
