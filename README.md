@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6391dd&height=120&section=header"/>
 <div align="center">
 
-## Hi there 👋 I'm Christian Blank
+## Hi there I'm Christian Blank
 
-### 👨‍💻 I’m a Full Stack Developer from Germany.
+### I’m a Full Stack Developer from Germany.
 I'm currently working in the field of Biotechnology: Laboratory Analytical Instruments.
 
 <br />
@@ -17,7 +17,7 @@ I'm currently working in the field of Biotechnology: Laboratory Analytical Instr
 
 #
 
-### 🌐 My top languages
+### My top languages
 
 <br />
 
@@ -26,7 +26,7 @@ I'm currently working in the field of Biotechnology: Laboratory Analytical Instr
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 📓 My top frameworks and libraries:
+### My top frameworks and libraries:
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -35,7 +35,7 @@ I'm currently working in the field of Biotechnology: Laboratory Analytical Instr
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### 📅 My top databases and ORMs:
+### My top databases and ORMs:
 
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,7 +43,7 @@ I'm currently working in the field of Biotechnology: Laboratory Analytical Instr
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
-### 🛠️ My top tools:
+### My top tools:
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -51,13 +51,13 @@ I'm currently working in the field of Biotechnology: Laboratory Analytical Instr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### 🖥️ My top OS:
+### My top OS:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### 💼 My other languages and Tools:
+### My other languages and Tools:
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
