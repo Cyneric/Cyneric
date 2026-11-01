@@ -93,6 +93,7 @@ I'm currently working in the field of Biotechnology: Laboratory Analytical Instr
 <br />
 <br />
 
+<!---
 #
 
 ### My Coding Stats
@@ -107,6 +108,7 @@ I'm currently working in the field of Biotechnology: Laboratory Analytical Instr
 ### Some coding stats
 
 <img width="800" src="https://wakatime.com/share/@Cyneric/38f1fe20-e9be-455d-b92e-754fffc03817.svg"></img>
+-->
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyneric&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cyneric&theme=tokyonight&show_icons=true) -->
