@@ -1,0 +1,43 @@
+name: Update blueprint
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-blueprint.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Render blueprint
+        run: node scripts/generate-blueprint.mjs
+        env:
+          # Needs a personal access token with repo scope: without it, private
+          # repositories are missing from the language stats.
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}
+
+      - name: Commit if changed
+        run: |
+          git add assets/blueprint.svg assets/blueprint-light.svg assets/blueprint-static.svg assets/blueprint-light-static.svg
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update blueprint"
+          git push
